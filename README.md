@@ -1,7 +1,7 @@
 
-# 👋 Hi, I'm Urvashi Saini
+👋 **Hi, I'm Urvashi Saini**
 
-### 💻 Aspiring Software Developer
+💻 *Aspiring Software Developer*
 
 📍 Kaithal, Haryana, India  
 🎓 MCA Student | BCA Graduate  
@@ -9,9 +9,9 @@
 
 ---
 
-## 🤝 Connect With Me
+🤝 **Connect With Me**
 
-📧 **Email:** urvashisaini0723@gmail.com
+📧 **Email:** [urvashisaini0723@gmail.com](mailto:urvashisaini0723@gmail.com)
 
 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/urvashi-saini-241798375/)
 
@@ -19,35 +19,37 @@
 
 ---
 
-## 👩‍💻 About Me
+👩‍💻 **About Me**
 
 I am an enthusiastic and motivated aspiring software developer with a strong interest in programming, web development, and emerging technologies. I enjoy building projects, exploring new tools, and improving my technical and problem-solving skills.
 
 ---
 
-## 🎓 Academic Qualifications
+🎓 **Academic Qualifications**
 
-**Master of Computer Applications (MCA)**  
+**Master of Computer Applications (MCA)**
+
 Kurukshetra University (KUK)  
 2025 – Present
 
-**Bachelor of Computer Applications (BCA)**  
+**Bachelor of Computer Applications (BCA)**
+
 CH. Ishwar Singh Kanya Mahavidyalaya, Pundri, Kaithal  
 2022 – 2025
 
 ---
 
-## 📚 Professional Qualifications
+📚 **Professional Qualifications**
 
 | Training / Qualification | Organization | Skills & Learning |
 |---|---|---|
 | 💻 C & C++ Training Program | HARTRON Skill Center, Panchkula | C, C++, OOP, File Handling, Data Structures, Problem Solving |
 | 🖥️ NIELIT Government Course | ZED-KING Institute, Kaithal | Computer Fundamentals, HTML, CSS, JavaScript, Python, IoT |
-| 🤖 Digital Marketing With AI | ZED-KING Institute, Kaithal | AI-Based Content Creation, SEO Fundamentals, Audience Targeting, Social Media Marketing, AI Tools |
+| 🤖 Digital Marketing With AI | ZED-KING Institute, Kaithal | AI Content Creation, SEO Fundamentals, Audience Targeting, Social Media Marketing, AI Tools |
 
 ---
 
-## 🛠️ Professional Skills
+🛠️ **Professional Skills**
 
 **Programming Languages**
 - C
@@ -69,30 +71,28 @@ CH. Ishwar Singh Kanya Mahavidyalaya, Pundri, Kaithal
 
 ---
 
-## 🚀 Live Projects
+🚀 **Live Projects**
 
-### 🍔 Burger Rush — Web-Based Game
+🍔 **Burger Rush — Web-Based Game**
 
-An interactive browser-based game where players catch ingredients in the correct order: Bun → Lettuce → Tomato → Cheese → Patty. Catching the wrong ingredient reduces points, while the game gets faster with each level.
+An interactive browser-based game where players catch ingredients in the correct order: Bun → Lettuce → Tomato → Cheese → Patty. Catching the wrong ingredient reduces points, and the game gets faster with each level.
 
 **Live Demo:** https://burger-rush-1.ai.studio
 
----
+🌐 **Fly High Consultancy — Business Website**
 
-### 🌐 Fly High Consultancy — Business Website
-
-A business website created to provide visitors with information about consultancy services through an accessible online platform. The website offers a digital presence for the business and helps visitors explore its services.
+A business website that provides visitors with information about consultancy services and helps establish an online presence for the business.
 
 **Live Website:** https://fly-high-consultancy.vercel.app
 
 ---
 
-## 🎯 Career Objective
+🎯 **Career Objective**
 
 To grow as a software developer by applying my programming knowledge, building practical projects, learning modern technologies, and creating useful digital experiences.
 
 ---
 
-## ⭐ Thanks for Visiting!
+⭐ **Thanks for Visiting!**
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories, star projects you find interesting, and connect with me.
