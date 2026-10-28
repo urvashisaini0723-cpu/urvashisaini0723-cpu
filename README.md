@@ -11,29 +11,27 @@
 
 ## 🤝 Connect With Me
 
-📧 **Email:** [urvashisaini0723@gmail.com](mailto:urvashisaini0723@gmail.com)
+📧 **Email:** urvashisaini0723@gmail.com
 
-💼 **LinkedIn:** [Visit My LinkedIn Profile](https://www.linkedin.com/in/urvashi-saini-241798375/)
+💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/urvashi-saini-241798375/)
 
-🐙 **GitHub:** [Visit My GitHub Profile](https://github.com/urvashisaini0723-cpu)
+🐙 **GitHub:** [GitHub Profile](https://github.com/urvashisaini0723-cpu)
 
 ---
 
 ## 👩‍💻 About Me
 
-I am an enthusiastic and motivated aspiring software developer with a strong interest in programming and software development. I enjoy learning new technologies, building projects, and improving my problem-solving skills.
+I am an enthusiastic and motivated aspiring software developer with a strong interest in programming, web development, and emerging technologies. I enjoy building projects, exploring new tools, and improving my technical and problem-solving skills.
 
 ---
 
 ## 🎓 Academic Qualifications
 
-**Master of Computer Applications (MCA)**
-
+**Master of Computer Applications (MCA)**  
 Kurukshetra University (KUK)  
 2025 – Present
 
-**Bachelor of Computer Applications (BCA)**
-
+**Bachelor of Computer Applications (BCA)**  
 CH. Ishwar Singh Kanya Mahavidyalaya, Pundri, Kaithal  
 2022 – 2025
 
@@ -51,42 +49,50 @@ CH. Ishwar Singh Kanya Mahavidyalaya, Pundri, Kaithal
 
 ## 🛠️ Professional Skills
 
-### 👨‍💻 Programming Languages
+**Programming Languages**
 - C
 - C++
 
-### 🧠 Core Concepts
+**Core Concepts**
 - Object-Oriented Programming (OOP)
 - Data Structures
 - Problem Solving
 
-### 🔧 Tools & Technologies
+**Tools & Technologies**
 - Git
 - GitHub
 - VS Code
 
-### 💻 Operating Systems
+**Operating Systems**
 - Windows
 - Linux
 
 ---
 
-## 🚀 Projects
+## 🚀 Live Projects
 
 ### 🍔 Burger Rush — Web-Based Game
 
-An interactive browser-based game featuring an engaging interface and ingredient-catching gameplay.
+An interactive browser-based game where players catch ingredients in the correct order: Bun → Lettuce → Tomato → Cheese → Patty. Catching the wrong ingredient reduces points, while the game gets faster with each level.
 
-**Live Project:** [Play Burger Rush](https://burger-rush-1.ai.studio)
+**Live Demo:** https://burger-rush-1.ai.studio
+
+---
+
+### 🌐 Fly High Consultancy — Business Website
+
+A business website created to provide visitors with information about consultancy services through an accessible online platform. The website offers a digital presence for the business and helps visitors explore its services.
+
+**Live Website:** https://fly-high-consultancy.vercel.app
 
 ---
 
 ## 🎯 Career Objective
 
-To grow as a software developer by applying my programming knowledge, developing practical projects, and continuously learning new technologies.
+To grow as a software developer by applying my programming knowledge, building practical projects, learning modern technologies, and creating useful digital experiences.
 
 ---
 
 ## ⭐ Thanks for Visiting!
 
-Thank you for visiting my GitHub profile. Feel free to explore my repositories, ⭐ star projects you find interesting, and connect with me!
+Thank you for visiting my GitHub profile! Feel free to explore my repositories, star projects you find interesting, and connect with me.
