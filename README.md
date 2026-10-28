@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Urvashi Saini
 
 ### 💻 Aspiring Software Developer
@@ -7,144 +8,66 @@
 💡 Passionate about Software Development, Programming & Technology
 
 ---
+
 ## 🤝 Connect With Me
 
-📧 **Email:** urvashisaini0723@gmail.com
+📧 **Email:** [urvashisaini0723@gmail.com](mailto:urvashisaini0723@gmail.com)
 
-💼 **LinkedIn:**  
-https://www.linkedin.com/in/urvashi-saini-241798375/
+💼 **LinkedIn:** [Visit My LinkedIn Profile](https://www.linkedin.com/in/urvashi-saini-241798375/)
 
-🐙 **GitHub:**  
-https://github.com/urvashisaini0723-cpu
+🐙 **GitHub:** [Visit My GitHub Profile](https://github.com/urvashisaini0723-cpu)
 
 ---
 
 ## 👩‍💻 About Me
 
-I am an enthusiastic and motivated aspiring software developer with a
-strong interest in programming and software development.
+I am an enthusiastic and motivated aspiring software developer with a strong interest in programming and software development. I enjoy learning new technologies, building projects, and improving my problem-solving skills.
 
 ---
 
 ## 🎓 Academic Qualifications
 
-### 🎓 Master of Computer Applications (MCA)
+**Master of Computer Applications (MCA)**
 
-**Kurukshetra University (KUK)**  
+Kurukshetra University (KUK)  
 2025 – Present
 
-### 🎓 Bachelor of Computer Applications (BCA)
+**Bachelor of Computer Applications (BCA)**
 
-**CH. Ishwar Singh Kanya Mahavidyalaya, Pundri, Kaithal**  
+CH. Ishwar Singh Kanya Mahavidyalaya, Pundri, Kaithal  
 2022 – 2025
 
 ---
 
 ## 📚 Professional Qualifications
 
-<table>
-<tr>
-<th>🎓 Training / Qualification</th>
-<th>🏢 Organization</th>
-<th>📚 Skills & Learning</th>
-</tr>
-
-<tr>
-<td>
-<b>💻 C & C++ Training Program</b>
-</td>
-
-<td>
-<b>HARTRON Skill Center, Panchkula</b>
-</td>
-
-<td>
-C, C++, Object-Oriented Programming,<br>
-File Handling, Data Structures,<br>
-Logical & Problem-Solving Skills
-</td>
-</tr>
-
-<tr>
-<td>
-<b>🖥️ NIELIT Government Course</b>
-</td>
-
-<td>
-<b>ZED-KING Institute, Kaithal</b>
-</td>
-
-<td>
-Computer Fundamentals, HTML, CSS,<br>
-JavaScript, Python, IoT
-</td>
-</tr>
-
-<tr>
-<td>
-<b>🤖 Digital Marketing With AI</b>
-</td>
-
-<td>
-<b>ZED-KING Institute, Kaithal</b>
-</td>
-
-<td>
-AI-Based Content Creation,<br>
-Audience Targeting, SEO Fundamentals,<br>
-Social Media Marketing, AI Tools
-</td>
-</tr>
-
-</table>
+| Training / Qualification | Organization | Skills & Learning |
+|---|---|---|
+| 💻 C & C++ Training Program | HARTRON Skill Center, Panchkula | C, C++, OOP, File Handling, Data Structures, Problem Solving |
+| 🖥️ NIELIT Government Course | ZED-KING Institute, Kaithal | Computer Fundamentals, HTML, CSS, JavaScript, Python, IoT |
+| 🤖 Digital Marketing With AI | ZED-KING Institute, Kaithal | AI-Based Content Creation, SEO Fundamentals, Audience Targeting, Social Media Marketing, AI Tools |
 
 ---
 
 ## 🛠️ Professional Skills
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 👨‍💻 Programming Languages
-
 - C
 - C++
 
-</td>
-
-<td width="50%" valign="top">
-
 ### 🧠 Core Concepts
-
 - Object-Oriented Programming (OOP)
 - Data Structures
 - Problem Solving
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
 ### 🔧 Tools & Technologies
-
 - Git
 - GitHub
 - VS Code
 
-</td>
-
-<td width="50%" valign="top">
-
 ### 💻 Operating Systems
-
 - Windows
 - Linux
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -152,15 +75,18 @@ Social Media Marketing, AI Tools
 
 ### 🍔 Burger Rush — Web-Based Game
 
-An interactive browser-based game developed with a responsive
-and engaging user interface.
+An interactive browser-based game featuring an engaging interface and ingredient-catching gameplay.
 
-🔗 **Live Project:**  
-https://burger-rush-1.ai.studio
+**Live Project:** [Play Burger Rush](https://burger-rush-1.ai.studio)
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+## 🎯 Career Objective
 
-If you find my projects interesting, feel free to ⭐ my repositories
-and connect with me.
+To grow as a software developer by applying my programming knowledge, developing practical projects, and continuously learning new technologies.
+
+---
+
+## ⭐ Thanks for Visiting!
+
+Thank you for visiting my GitHub profile. Feel free to explore my repositories, ⭐ star projects you find interesting, and connect with me!
